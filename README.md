@@ -1,2 +1,2 @@
-# mahinn
+# Mahin
 Its my website 
